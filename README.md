@@ -14,11 +14,11 @@
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="adrg's Github stats" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=adrg&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=Github Stats" height="192px"/>
+    <img alt="adrg's GitHub stats" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=adrg&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=GitHub Stats" height="192px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="adrg's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrg&langs_count=8&layout=compact&hide_border=true" height="192px"/>
   </a>
 </div>
 
-> **Note**: Most used languages is a metric of the languages my public code uses and does not reflect experience or skill level.
+> **Note**: Most used languages is a metric of the languages my public code consists of and does not reflect experience or skill level.
