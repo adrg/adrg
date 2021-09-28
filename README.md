@@ -8,9 +8,9 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrg@epistack.com)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-george-bostan-82318078)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adrg_b)
+[![Email](https://img.shields.io/badge/-adrg@epistack.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:adrg@epistack.com)
+[![Linkedin](https://img.shields.io/badge/-adrgb-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/adrgb)
+[![Twitter](https://img.shields.io/badge/-@adrg-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/adrg_b)
 
 </div>
 
