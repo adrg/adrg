@@ -1,16 +1,18 @@
+<div align="right">
+
+![](https://komarev.com/ghpvc/?username=adrg&label=PROFILE+VIEWS)
+
+</div>
+
 <h2 align="center">Adrian-George Bostan</h2>
 
-<p align="center">
-  <a href="mailto:adrg@epistack.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/adrian-george-bostan-82318078" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/adrg_b" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrg@epistack.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-george-bostan-82318078)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adrg_b)
+
+</div>
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -21,4 +23,4 @@
   </a>
 </div>
 
-> **Note**: Most used languages is a metric of the languages my public code consists of and does not reflect experience or skill level.
+> **Note**: “Most Used Languages” is a metric of the languages my public code consists of and does not reflect experience or skill level.
