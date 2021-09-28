@@ -1,20 +1,28 @@
+<!-- Profile views -->
 <div align="right">
-
-![](https://komarev.com/ghpvc/?username=adrg&label=PROFILE+VIEWS)
-
+  <a href="https://komarev.com/ghpvc">
+    <img alt="adrg's profile views" src="https://komarev.com/ghpvc/?username=adrg&label=PROFILE+VIEWS&style=flat-square"/>
+  </a>
 </div>
 
-<h2 align="center">Adrian-George Bostan</h2>
+<!-- Headers -->
+<h2 align="center">ADRIAN-GEORGE BOSTAN</h2>
 
+<!-- Contact Badges -->
 <div align="center">
-
-[![Email](https://img.shields.io/badge/-adrg@epistack.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:adrg@epistack.com)
-[![Linkedin](https://img.shields.io/badge/-adrgb-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/adrgb)
-[![Twitter](https://img.shields.io/badge/-@adrg-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/adrg_b)
-
+  <a href="https://linkedin.com/in/adrgb">
+    <img alt="adrg's LinkedIn profile" src="https://img.shields.io/badge/adrgb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/adrg_b">
+    <img alt="adrg's Twitter profile" src="https://img.shields.io/badge/-@adrg-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:adrg@epistack.com">
+    <img alt="adrg's email address" src="https://img.shields.io/badge/-adrg@epistack.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
-<div>
+<!-- Github Stats -->
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="adrg's GitHub stats" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=adrg&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=GitHub Stats" height="192px"/>
   </a>
