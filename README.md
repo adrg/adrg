@@ -22,14 +22,18 @@
   </a>
 </div>
 
+<br />
+
 <!-- GitHub Stats -->
-<h4>⚡ GitHub Stats</h4>
+<div>
+  <strong>⚡ GitHub Stats</strong>
+</div>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="adrg's repository stats" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=adrg&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=Repository+Stats" height="192px" />
+    <img alt="adrg's repository stats" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=adrg&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=Repository+Stats" height="190px" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="adrg's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrg&langs_count=8&layout=compact&hide_border=true" height="192px" />
+    <img alt="adrg's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrg&langs_count=8&layout=compact&hide_border=true" height="190px" />
   </a>
 </div>
 
