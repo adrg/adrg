@@ -1,17 +1,15 @@
 <!-- Profile stats -->
 <div align="right">
   <a href="https://github.com/adrg">
-    <img alt="adrg's total stars" src="https://img.shields.io/github/stars/adrg?label=TOTAL+STARS&style=flat-square&color=green" />
+    <img alt="adrg's total stars" src="https://img.shields.io/github/stars/adrg?label=TOTAL+STARS&style=flat-square" />
   </a>
   <a href="https://komarev.com/ghpvc">
     <img alt="adrg's profile views" src="https://komarev.com/ghpvc/?username=adrg&label=PROFILE+VIEWS&logo=github&style=flat-square" />
   </a>
 </div>
 
-<!-- Headers -->
+<!-- Header -->
 <h2 align="center">ADRIAN-GEORGE BOSTAN</h2>
-
-<!-- Contact Badges -->
 <div align="center">
   <a href="mailto:adrg@epistack.com">
     <img alt="Send me an email" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -24,13 +22,14 @@
   </a>
 </div>
 
-<!-- Github Stats -->
+<!-- GitHub Stats -->
+<h4>⚡ GitHub Stats</h4>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="adrg's GitHub stats" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=adrg&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=GitHub Stats" height="192px" />
+    <img alt="adrg's repository stats" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=adrg&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true" height="184px" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="adrg's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrg&langs_count=8&layout=compact&hide_border=true" height="192px" />
+    <img alt="adrg's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrg&langs_count=8&layout=compact&hide_border=true" height="184px" />
   </a>
 </div>
 
