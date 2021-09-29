@@ -13,8 +13,6 @@
   </a>
 </div>
 
-<br />
-
 <!-- Contact -->
 <h2>📫 Contact</h2>
 
@@ -28,10 +26,9 @@
   <img alt="adrg's Twitter profile" src="https://img.shields.io/badge/twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<br />
-
 <!-- GitHub stats -->
 <h2>⚡ GitHub stats</h2>
+
 <details open>
   <summary><strong>⭐ Repository stats</strong></summary>
   <a href="#-github-stats">
@@ -48,3 +45,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrg&hide_border=true&background=ffffff" />
   </a>
 </details>
+
+<!-- Footer -->
+<hr>
+<h4 align="center">
+  If you find my projects useful, show some ❤️  by giving them a star!
+</h4>
