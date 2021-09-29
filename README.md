@@ -5,6 +5,9 @@
   <a href="#adrian-george-bostan">
     <img alt="adrg's total stars" src="https://img.shields.io/github/stars/adrg?label=TOTAL+STARS&style=flat-square" />
   </a>
+  <a href="https://github.com/adrg?tab=followers">
+    <img alt="adrg's followers" src="https://img.shields.io/github/followers/adrg?label=FOLLOWERS&style=flat-square" />
+  </a>
   <a href="#adrian-george-bostan">
     <img alt="adrg's profile views" src="https://komarev.com/ghpvc/?username=adrg&label=PROFILE+VIEWS&logo=github&style=flat-square" />
   </a>
