@@ -48,6 +48,6 @@
 
 <!-- Footer -->
 <hr>
-<h4 align="center">
-  If you find my projects useful, show some ❤️  by giving them a star!
-</h4>
+<div align="center">
+  <strong>If you find my projects useful, show some ❤️  by giving them a star!</strong>
+</div>
