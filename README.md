@@ -13,23 +13,23 @@
 <!-- Contact -->
 <h2>📫 Contact</h2>
 
-<div>
-  <a href="mailto:adrg@epistack.com">
-    <img alt="Send adrg an email" src="https://img.shields.io/badge/email-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/adrgb">
-    <img alt="adrg's LinkedIn profile" src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/adrg_b">
-    <img alt="adrg's Twitter profile" src="https://img.shields.io/badge/twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</div>
+<a href="mailto:adrg@epistack.com">
+  <img alt="Send adrg an email" src="https://img.shields.io/badge/email-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/adrgb">
+  <img alt="adrg's LinkedIn profile" src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/adrg_b">
+  <img alt="adrg's Twitter profile" src="https://img.shields.io/badge/twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<br />
 
 <!-- GitHub stats -->
 <h2>⚡ GitHub stats</h2>
-
+<br />
 <details open>
-  <summary><strong>☄️  Repository stats</strong></summary>
+  <summary><strong>⭐ Repository stats</strong></summary>
+  <br />
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="adrg's repository stats" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=adrg&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true&bg_color=ffffff" />
   </a>
@@ -40,5 +40,8 @@
 
 <details>
   <summary><strong>🔥 Contribution streaks</strong></summary>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrg&hide_border=true&background=ffffff" />
+  <br />
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrg&hide_border=true&background=ffffff" />
+  </a>
 </details>
