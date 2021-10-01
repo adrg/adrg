@@ -27,7 +27,7 @@
 </a>
 
 <!-- GitHub stats -->
-<h2>⚡ GitHub stats</h2>
+<h2>⚡ Stats</h2>
 
 <details open>
   <summary><strong>⭐ Repository stats</strong></summary>
