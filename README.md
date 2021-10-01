@@ -49,5 +49,5 @@
 <!-- Footer -->
 <hr>
 <div align="center">
-  <strong>If you find my projects useful, show some ❤️  by giving them a star!</strong>
+  <strong>If you find my <a href="https://github.com/adrg?tab=repositories&sort=stargazers">projects</a> useful, show some ❤️  by giving them a star!</strong>
 </div>
