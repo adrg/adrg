@@ -1,5 +1,9 @@
 <!-- Header -->
-<h2 align="center">ADRIAN-GEORGE BOSTAN</h2>
+<h2 align="center">
+    <samp>ADRIAN-GEORGE BOSTAN</samp>
+    <br/>
+    <sub><samp>SOFTWARE DEVELOPER</samp></sub>
+</h2>
 
 <div align="center">
   <a href="#adrian-george-bostan">
@@ -40,11 +44,11 @@
 <!-- Footer -->
 <hr>
 
-<!-- Contact -->
 <p align="center">
   <strong>If you find my <a href="https://github.com/adrg?tab=repositories&sort=stargazers">projects</a> useful, show some :hearts: by giving them a star!</strong>
 </p>
 
+<!-- Contact -->
 <p align="center">
   <a href="mailto:adrg@epistack.com">
     <img alt="Send adrg an email" src="https://img.shields.io/badge/email-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
