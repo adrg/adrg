@@ -28,7 +28,7 @@
 </details>
 
 <details>
-  <summary><strong>:hammer_and_wrench:	Languages</strong></summary>
+  <summary><strong>:hammer_and_wrench: Languages</strong></summary>
   <a href="#zap-stats">
     <img alt="adrg's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrg&langs_count=8&layout=compact&hide_border=true&hide_title=true&bg_color=ffffff" width="375" />
   </a>
@@ -37,7 +37,7 @@
 <details>
   <summary><strong>:fire: Contributions</strong></summary>
   <a href="#zap-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrg&hide_border=true&background=ffffff" width="400" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrg&hide_border=true&background=ffffff" width="450" />
   </a>
 </details>
 
