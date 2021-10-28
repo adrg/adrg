@@ -17,7 +17,7 @@
   </a>
 </div>
 
-<!-- GitHub stats -->
+<!-- Stats -->
 <h2>:zap: Stats</h2>
 
 <details open>
@@ -48,8 +48,10 @@
   <samp>If you find my <a href="https://github.com/adrg?tab=repositories&sort=stargazers">projects</a> useful, show some :hearts: by giving them a star!</samp>
 </p>
 
+<br />
+
 <!-- Contact -->
-<h4 align="center">:link: Connect with me</h4>
+<p align="center"><strong>:link: Connect with me</strong></p>
 
 <p align="center">
   <a href="mailto:adrg@epistack.com">
