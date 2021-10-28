@@ -19,21 +19,21 @@
 <details open>
   <summary><strong>:star: Repositories</strong></summary>
   <a href="#zap-stats">
-    <img alt="adrg's repository stats" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=adrg&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true&bg_color=ffffff" width="600" />
+    <img alt="adrg's repository stats" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=adrg&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true&bg_color=ffffff" width="500" />
   </a>
 </details>
 
 <details>
   <summary><strong>:hammer_and_wrench:	Languages</strong></summary>
   <a href="#zap-stats">
-    <img alt="adrg's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrg&langs_count=8&layout=compact&hide_border=true&hide_title=true&bg_color=ffffff" width="475" />
+    <img alt="adrg's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrg&langs_count=8&layout=compact&hide_border=true&hide_title=true&bg_color=ffffff" width="375" />
   </a>
 </details>
 
 <details>
   <summary><strong>:fire: Contributions</strong></summary>
   <a href="#zap-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrg&hide_border=true&background=ffffff" width="500" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrg&hide_border=true&background=ffffff" width="400" />
   </a>
 </details>
 
