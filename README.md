@@ -13,41 +13,46 @@
   </a>
 </div>
 
-<!-- Contact -->
-<h2>📫 Contact</h2>
-
-<a href="mailto:adrg@epistack.com">
-  <img alt="Send adrg an email" src="https://img.shields.io/badge/email-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/adrgb">
-  <img alt="adrg's LinkedIn profile" src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/adrg_b">
-  <img alt="adrg's Twitter profile" src="https://img.shields.io/badge/twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
 <!-- GitHub stats -->
-<h2>⚡ Stats</h2>
+<h2>:zap: Stats</h2>
 
 <details open>
-  <summary><strong>⭐ Repository stats</strong></summary>
-  <a href="#-github-stats">
-    <img alt="adrg's repository stats" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=adrg&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true&bg_color=ffffff" />
-  </a>
-  <a href="#-github-stats">
-    <img alt="adrg's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrg&langs_count=8&layout=compact&hide_border=true&hide_title=true&bg_color=ffffff" />
+  <summary><strong>:star: Repositories</strong></summary>
+  <a href="#zap-stats">
+    <img alt="adrg's repository stats" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=adrg&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true&bg_color=ffffff" width="600" />
   </a>
 </details>
 
 <details>
-  <summary><strong>🔥 Contribution streaks</strong></summary>
-  <a href="#-github-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrg&hide_border=true&background=ffffff" />
+  <summary><strong>:hammer_and_wrench:	Languages</strong></summary>
+  <a href="#zap-stats">
+    <img alt="adrg's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrg&langs_count=8&layout=compact&hide_border=true&hide_title=true&bg_color=ffffff" width="475" />
+  </a>
+</details>
+
+<details>
+  <summary><strong>:fire: Contributions</strong></summary>
+  <a href="#zap-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrg&hide_border=true&background=ffffff" width="500" />
   </a>
 </details>
 
 <!-- Footer -->
 <hr>
-<div align="center">
-  <strong>If you find my <a href="https://github.com/adrg?tab=repositories&sort=stargazers">projects</a> useful, show some ❤️  by giving them a star!</strong>
-</div>
+
+<!-- Contact -->
+<p align="center">
+  <strong>If you find my <a href="https://github.com/adrg?tab=repositories&sort=stargazers">projects</a> useful, show some :hearts: by giving them a star!</strong>
+</p>
+
+<p align="center">
+  <a href="mailto:adrg@epistack.com">
+    <img alt="Send adrg an email" src="https://img.shields.io/badge/email-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/adrgb">
+    <img alt="adrg's LinkedIn profile" src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/adrg_b">
+    <img alt="adrg's Twitter profile" src="https://img.shields.io/badge/twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
