@@ -26,7 +26,7 @@ of confirmation. On second thought, I guess this is a form of freedom in and of 
 write just about anything. Maybe it's better that I don't really like introductions, otherwise there
 might have been something meaningful written here.
 
-Anyway, this is the home of my open-source projects. Welcome!
+<p><samp>Anyway, this is the home of my open-source projects. Welcome!</samp></p>
 
 <!-- Stats -->
 <h2>:zap: Stats</h2>
