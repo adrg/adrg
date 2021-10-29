@@ -23,10 +23,10 @@
 Hi, I'm Adrian! I'm a passionate software developer based in Romania. Nice to see you here!
 Actually, I'm not really sure that anyone is reading this. It would be nice to get some kind
 of confirmation. On second thought, I guess this is a form of freedom in and of itself. I could
-write just about anything.
+write just about anything.  It's good that I don't really like introductions, otherwise there
+might have been something meaningful written here.
 
-It's good that I don't really like introductions, otherwise there might have been
-something meaningful written here. Anyway, this is the home of my open-source projects. Welcome!
+Anyway, this is the home of my open-source projects. Welcome!
 
 <!-- Stats -->
 <h2>:zap: Stats</h2>
