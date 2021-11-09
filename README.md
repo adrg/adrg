@@ -22,7 +22,7 @@
 
 <samp>
 Hi, I'm Adrian! I'm a passionate software developer based in Romania. Nice to see you here!
-<br/>This is the home of my open-source projects.</samp>
+<br/>This is the home of my open-source <a href="https://github.com/adrg?tab=repositories&sort=stargazers">projects</a>.</samp>
 
 <!-- Stats -->
 <h2>:zap: Stats</h2>
