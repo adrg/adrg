@@ -20,9 +20,8 @@
 <!-- Introduction -->
 <h2>:wave: Introduction</h2>
 
-<samp>
-Hi, I'm Adrian! I'm a passionate software developer based in Romania. Nice to see you here!
-<br/>This is the home of my open-source <a href="https://github.com/adrg?tab=repositories&sort=stargazers">projects</a>.</samp>
+<samp>Hi, I'm Adrian! I'm a software developer based in Romania. I am passionate about Go, C++, Python, Vim, Linux and wrist watches.
+Nice to see you here! This is the home of my open-source <a href="https://github.com/adrg?tab=repositories&sort=stargazers">projects</a>.</samp>
 
 <!-- Stats -->
 <h2>:zap: Stats</h2>
@@ -61,13 +60,13 @@ Hi, I'm Adrian! I'm a passionate software developer based in Romania. Nice to se
 <p align="center"><strong>:link: Connect with me</strong></p>
 
 <p align="center">
-  <a href="mailto:adrg@epistack.com">
-    <img alt="Send adrg an email" src="https://img.shields.io/badge/email-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://twitter.com/adrg_b">
+    <img alt="adrg's Twitter profile" src="https://img.shields.io/badge/twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/adrgb">
     <img alt="adrg's LinkedIn profile" src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/adrg_b">
-    <img alt="adrg's Twitter profile" src="https://img.shields.io/badge/twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="mailto:adrg@epistack.com">
+    <img alt="Send adrg an email" src="https://img.shields.io/badge/email-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
