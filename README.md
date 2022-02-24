@@ -2,7 +2,7 @@
 <h2 align="center">
     <span>ADRIAN-GEORGE BOSTAN</span>
     <br />
-    <sub><samp>SOFTWARE DEVELOPER</samp></sub>
+    <samp>SOFTWARE DEVELOPER</samp>
 </h2>
 
 <div align="center">
@@ -20,8 +20,8 @@
 <!-- Introduction -->
 <h2>:wave: Introduction</h2>
 
-<samp>Hi, I'm Adrian! I'm a software developer based in Romania. I am passionate about Go, C++, Python, Vim, Linux and wrist watches.
-Nice to see you here! This is the home of my open-source <a href="https://github.com/adrg?tab=repositories&sort=stargazers">projects</a>.</samp>
+Hi, I'm Adrian! I'm a software developer based in Romania. I am passionate about Go, C++, Python, Vim, Linux and wrist watches.
+Nice to see you here! This is the home of my open-source <a href="https://github.com/adrg?tab=repositories&sort=stargazers">projects</a>.
 
 <!-- Stats -->
 <h2>:zap: Stats</h2>
@@ -50,10 +50,7 @@ Nice to see you here! This is the home of my open-source <a href="https://github
 <!-- Footer -->
 <hr>
 
-<p align="center">
-  <samp>If you find my <a href="https://github.com/adrg?tab=repositories&sort=stargazers">projects</a> useful, show some :hearts: by giving them a star!</samp>
-</p>
-
+<p align="center">If you find my <a href="https://github.com/adrg?tab=repositories&sort=stargazers">projects</a> useful, show some :hearts: by giving them a star!</p>
 <br />
 
 <!-- Contact -->
