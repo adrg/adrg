@@ -57,9 +57,6 @@ Nice to see you here! This is the home of my open-source <a href="https://github
 <p align="center"><strong>:link: Connect with me</strong></p>
 
 <p align="center">
-  <a href="https://twitter.com/adrg_b">
-    <img alt="adrg's Twitter profile" src="https://img.shields.io/badge/twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/adrgb">
     <img alt="adrg's LinkedIn profile" src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
