@@ -20,7 +20,7 @@
 <!-- Introduction -->
 <h2>:wave: Introduction</h2>
 
-Hi, I'm Adrian! I'm a software developer based in Romania. I am passionate about Go, C++, Python, Vim, Linux and wrist watches.
+Hi, I'm Adrian! I'm a software developer based in Romania. I am passionate about C, Go, Vim, Linux. Python is also pretty good for some use cases.
 Nice to see you here! This is the home of my open-source <a href="https://github.com/adrg?tab=repositories&sort=stargazers">projects</a>.
 
 <!-- Stats -->
